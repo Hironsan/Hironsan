@@ -12,7 +12,8 @@ Translator
 
 - [Deep Learning with Keras](https://www.amazon.com/dp/B06Y2YMRDW/)（JP: [直感 Deep Learning](https://www.amazon.co.jp/dp/4873118263/)）
 - [Building Machine Learning Pipelines](https://www.amazon.com/dp/B08CXDBWTX/)（JP: [入門 機械学習パイプライン](https://www.amazon.co.jp/dp/4873119510/)）
-- [Practical Natural Language Processing]()（JP: [実践 自然言語処理](https://www.amazon.co.jp/dp/4873119723/)）
+- [Practical Natural Language Processing](https://www.amazon.com/dp/1492054054/)（JP: [実践 自然言語処理](https://www.amazon.co.jp/dp/4873119723/)）
+- [Natural Language Processing with Transformers](https://www.amazon.com/dp/1098103246/)（JP: [機械学習エンジニアのためのTransformers](https://www.amazon.co.jp/dp/4873119952/)）
 
 If you want to support me, [see GitHub Sponsors](https://github.com/sponsors/Hironsan):heart:
 
